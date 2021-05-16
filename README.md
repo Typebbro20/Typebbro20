@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Typebbro20
 - 👀 I’m interested in developing decentralized application on the Ethereeum network.
-- 🌱 I’m currently learning JavaScript and Elixir
+- 🌱 I’m currently learning JavaScript and Solidity
 - 💞️ I’m looking to collaborate on an Ether project that's worthy of Mark Cuban's attention.
 - 📫 How to reach me: @liquidmerchantllc on Instagram or liquidmerchantllc@gmail.com
 
